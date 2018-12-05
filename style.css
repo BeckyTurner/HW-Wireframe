@@ -1,0 +1,66 @@
+body {
+    font-family: "arial";
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+}
+
+header, nav, section, aside, footer {
+    background: #ebebeb;
+    padding: 25px;
+    margin: 10px;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+    margin: 10px;
+    height: 225px;
+    width: 525px;
+}
+
+section.box {
+    position: relative;
+}
+
+article.absolute {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+header, {
+    color: #777;
+    background: #ebebeb;
+}
+
+.box {
+    float: left;
+}
+
+section {
+    width: 495px;
+    height: 250px;
+}
+
+p, h1 {
+    color: #777;
+    background: #ebebeb;
+    padding: 25px;
+    margin: 10px;
+}
+aside {
+    width: 325px;
+    height: 250px;
+}
+
+.clear {
+    clear: left;
+}
+
+footer {
+    
+}
